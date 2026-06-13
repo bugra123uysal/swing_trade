@@ -6,4 +6,4 @@ plotly
 requests
 python-dotenv
 websocket-client
-matplotlip
+matplotlib
